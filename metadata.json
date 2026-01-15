@@ -1,0 +1,9 @@
+
+{
+  "name": "FastPost Marketplace",
+  "description": "A comprehensive multi-category platform for Umrah packages, restaurants, cars, markets, clothing, and electronics with integrated admin management and payment flows.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
